@@ -12,6 +12,14 @@
 
 <h1>PROJE HAKKINDA GENEL BİLGİLER</h1>
 
+<p>Projeyi kendi ortamınızda çalıştırmak için reponun sağ ustünde bulunann butondan doğrudan .zip uzantılı bir dosyaya sıkıştırılmış olarak indirebilir ya da<p>
+
+<pre>
+git clone https://github.com/sunayalisarp34/library_management_system.git
+</pre>
+
+<p>yukarıdaki komutu Git CLI üzerinden girerek kendi ortamınızdaki istediğiniz bir dizine ekleyeblirsiniz.</p>
+
 <h2>Komut Satırı Uygulaması</h2>
 
 <h3>Kurulum ve çalıştırma<h3>
