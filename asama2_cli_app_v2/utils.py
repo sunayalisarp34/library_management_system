@@ -8,7 +8,7 @@ import time
 from model import Book
 
 
-RATE_LIMIT_DELAY = 1
+RATE_LIMIT_DELAY = 4
 rate_limiter = Semaphore(1)
 OPEN_LIBRARY_API = "https://openlibrary.org/api/books?bibkeys=ISBN:{isbn}&format=json&jscmd=data"
 
