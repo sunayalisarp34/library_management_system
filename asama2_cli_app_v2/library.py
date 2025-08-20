@@ -1,6 +1,6 @@
 import json
 from pathlib import Path
-from book import Book
+from model import Book
 
 class Library:
     def __init__(self, file_name="library.json"):
@@ -65,5 +65,4 @@ class Library:
         else:
             print("Kitap bulunamadı.")
             return None
-    
-    
+        
